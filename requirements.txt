@@ -1,0 +1,7 @@
+
+streamlit #to build app
+langchain #to build LLM workflow
+openai #to use GPT
+wikipedia #usted to connect GPT to wikipedia
+chromadb #vector storage
+tiktoken #backend tockenizer for OpenAI
